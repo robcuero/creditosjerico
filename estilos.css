@@ -5,9 +5,43 @@
 .header1{
 	background-color:#F7F4F4;
 }
+.imagen{
+	 padding-top: 9px;
+}
 .iconos{
 	margin-right: 50px;
 	margin-left: 50px; 
 	 padding-top: 9px;
 	
 }
+.caja1{
+	background-color:#0C0A0A;
+ 
+}
+.cajatexto{
+ margin-left: 50px; 
+ padding-top: 9px;
+}
+.botonbuscar{
+	 padding-top: 9px;
+}
+
+footer {
+	background-color:#D8D7D7;
+	height: 50%;
+  color: white;
+  padding: 15px;
+}
+
+.main1 { 
+  display:flex;
+  margin:0 auto;
+}
+
+a img:hover {
+    color: #fff;
+}
+.centro{
+	display: table-cell;
+        vertical-align: middle;
+        text-align: center;
