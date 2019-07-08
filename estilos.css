@@ -15,8 +15,8 @@
 	
 }
 .iconos2{
-	margin-right: 50px;
-	margin-left: 200px; 
+	margin-right: 0px;
+	margin-left: 150px; 
 	 padding-top: 9px;
 	
 }
@@ -39,17 +39,15 @@ footer {
   padding: 15px;
 }
 
-.main1 { 
-  display:flex;
-  margin:0 auto;
+
+
+a{color: white}
+
+span{
+	font-size:15px;
+	color:#373131;
 }
 
-a img:hover {
-    color: #fff;
+button{
+	text-decoration: none
 }
-.centro{
-	display: table-cell;
-        vertical-align: middle;
-        text-align: center;
-}
-a{color: white}
