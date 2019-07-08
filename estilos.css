@@ -6,7 +6,12 @@
 	background-color:#F7F4F4;
 }
 .imagen{
-	 padding-top: 9px;
+	 
+	 
+	border:solid #C4F6E0;
+	float: left;
+
+
 }
 .iconos{
 	margin-right: 50px;
@@ -48,6 +53,9 @@ span{
 	color:#373131;
 }
 
+body{
+	background-color: #F1F1F1
+}
 button{
-	text-decoration: none
+	text-decoration: none;
 }
